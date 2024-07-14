@@ -65,9 +65,4 @@ P.S: Please note that right now Dynamic does not implement FVM with Wagmi, thus 
 
 ## Architecture Diagram
 
-
-## Process for Data Providing
-
-## Process for Data Verifying
-
-## Next Steps & Improvements
+![Orchave Architecture](./architecture.png)
