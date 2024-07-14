@@ -65,4 +65,4 @@ P.S: Please note that right now Dynamic does not implement FVM with Wagmi, thus 
 
 ## Architecture Diagram
 
-![Orchave Architecture](./architecture.png)
+![Orchave Architecture](../architecture.png)
